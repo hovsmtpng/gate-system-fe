@@ -1,0 +1,8 @@
+{
+    "headerName": "Headers Names",
+    "inOut": "TO",
+    "terminalName": "TPK Terminal 009",
+    "gateName": "GOUT",
+    "stid": "Y",
+    "logo": ""
+  }
